@@ -9,7 +9,7 @@ Requires a 9–12V / 5A power supply.
 
 
 
-[Bad apple on this shit](https://youtu.be/aoGiHarBVdQ)
+[Bad apple on this](https://youtu.be/aoGiHarBVdQ)
 
 
 
