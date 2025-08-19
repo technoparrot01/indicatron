@@ -204,7 +204,7 @@ void setup() {
 }
 
 void loop() {
-  clock_from_rtc();
-  // dvdBig();
+  //clock_from_rtc();
+   dvdBig();
   delay(10);
 }
